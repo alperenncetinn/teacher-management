@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StajYonetim.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e899fd5003540905034e0cea750568891735ee3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("StajYonetim.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StajYonetim.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
